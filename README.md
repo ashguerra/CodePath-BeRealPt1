@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
   </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  [Loom](https://www.loom.com/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
